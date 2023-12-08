@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I am Máira! 👱‍♀🧑‍💻
+# Hello, I am Máira! 👱‍♀
 Welcome to my GitHub profile.
 
 
