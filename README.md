@@ -3,7 +3,7 @@ Welcome to my GitHub profile.
 
 <div align="center">
   
-  ![Banner](https://github.com/mayacdev/Maira/assets/151089184/bad23fe4-2490-46c8-8476-3ad0a1912240)
+![Banner](https://github.com/mayacdev/Maira/assets/151089184/bad23fe4-2490-46c8-8476-3ad0a1912240)
 
 </div>
 
