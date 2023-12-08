@@ -1,7 +1,13 @@
 # Hello, I am Máira! 👱‍♀🧑‍💻
 Welcome to my GitHub profile.
 
-<img scr="mayacdev.github.io/images/github-Banner.png" alt="banner">
+<div align="center">
+  
+  ![Banner](https://github.com/mayacdev/Maira/assets/151089184/bad23fe4-2490-46c8-8476-3ad0a1912240)
+
+</div>
+
+
 
 I am a software engineer student who became interested in front-end very soon. I am currently learning about HTML and CSS. 
 
