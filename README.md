@@ -11,7 +11,7 @@ Welcome to my GitHub profile.
 
 
 
-I am a software engineer student who became interested in front-end very soon. I am currently learning about HTML and CSS. 
+I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
 
 </div>
 
