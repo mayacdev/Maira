@@ -6,11 +6,12 @@ Welcome to my GitHub profile.
 
 I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
 
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayacdev)](https://github.com/mayacdev/github-readme-stats)
 
 ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
+
+</div>
 
 # You can find me on 🌎:<br>
 <a href="https://www.linkedin.com/in/mairaalmeidac/">LinkedIn</a><br>
