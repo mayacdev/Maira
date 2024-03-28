@@ -15,7 +15,7 @@ I am a system analysis and development student who became interested in front-en
 
 </div>
 
-![Banner]([https://github.com/mayacdev/Maira/assets/151089184/bad23fe4-2490-46c8-8476-3ad0a1912240](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png))
+![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
 
 # You can find me on 🌎:<br>
 <a href="https://www.linkedin.com/in/mairaalmeidac/">LinkedIn</a><br>
