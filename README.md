@@ -15,6 +15,10 @@ I am a system analysis and development student who became interested in front-en
 
 </div>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
 
 # You can find me on 🌎:<br>
