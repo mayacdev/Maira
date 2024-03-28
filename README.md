@@ -8,8 +8,12 @@ I am a system analysis and development student who became interested in front-en
 
 </div>
 
-[![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayacdev)](https://github.com/mayacdev/github-readme-stats?theme=ambient_gradient) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayacdev)](https://github.com/mayacdev/github-readme-stats)
+<a href="https://github.com/mayacdev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayacdev&repo=github-readme-stats?theme=ambient_gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayacdev&repo=convoychat" />
+</a>
 
 ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
 
