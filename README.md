@@ -16,6 +16,8 @@ I am a system analysis and development student who became interested in front-en
 </head>
 
 <body>
+
+<div align="center">
   
   ### :hammer_and_wrench: Languages:
 
@@ -25,9 +27,7 @@ I am a system analysis and development student who became interested in front-en
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
-          
-          
+
 
 </div>
 
