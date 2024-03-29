@@ -9,8 +9,23 @@ Welcome to my GitHub profile.
 
 I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
 
+### :hammer_and_wrench: Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayacdev)](https://github.com/mayacdev/github-readme-stats)
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
+          
+          
+
+</div>
+
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayacdev)](https://github.com/mayacdev/github-readme-stats)
 
 ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png | width=100)
 
