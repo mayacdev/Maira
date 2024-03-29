@@ -5,8 +5,13 @@
 
 ![giphy](https://github.com/mayacdev/mayacdev/assets/151089184/a433ba08-8827-4ea8-a184-532917c95616=250x250)
 
+</div>
+
 • I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
+
 • Learning Bootsrap, Tailwind and JavaScript.
+
+<div align="center">  
 
 <a href="https://www.instagram.com/deucemaycare/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -33,16 +38,12 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
   </div>
+  
+</div>
 
   ##
 
   ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
-  
-</div>
-
-</div>
-
-</div>
 
 # You can find me on 🌎:<br>
 <a href="https://www.linkedin.com/in/mairaalmeidac/">LinkedIn</a><br>
