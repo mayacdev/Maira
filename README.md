@@ -1,51 +1,52 @@
-<head>
-  <div align="center">
-  
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+<div align="center">  
 
 <h2># Hello, I am Máira! 👱‍♀</h2>
-<h3>Welcome to my GitHub profile.</h3>
+<h4>Welcome to my GitHub profile.</h4>
 
-[div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k3NDkwbDY3NmkzamljeXRmMjA4YTJ5OWFueGNiZGJ4aGFvZGxvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)"/>
-</div><](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k3NDkwbDY3NmkzamljeXRmMjA4YTJ5OWFueGNiZGJ4aGFvZGxvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![giphy](https://github.com/mayacdev/mayacdev/assets/151089184/a433ba08-8827-4ea8-a184-532917c95616=250x250)
 
-I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
+• I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
+• Learning Bootsrap, Tailwind and JavaScript.
 
-</head>
+<a href="https://www.instagram.com/deucemaycare/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-<body>
+<a href="https://linkedin.com/in/mairaalmeidac">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<div align="center">
-  
-  ### :hammer_and_wrench: Languages:
-
-            
-            <i class="devicon-html5-plain colored"></i>
-            
-            <i class="devicon-css3-plain colored"></i>
-            
-            <i class="devicon-bootstrap-plain colored"></i>
-            
-            <i class="devicon-javascript-plain colored"></i>
-
-
-</div>
+##          
 
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayacdev)](https://github.com/mayacdev/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayacdev&layout=compact)](https://github.com/mayacdev/github-readme-stats)
 
-![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
+  <div style="display: inline_block">        
+  
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+          
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+          
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+  </div>
+
+  ##
+
+  ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
+  
+</div>
+
+</div>
 
 </div>
 
 # You can find me on 🌎:<br>
 <a href="https://www.linkedin.com/in/mairaalmeidac/">LinkedIn</a><br>
 <a href="https://www.instagram.com/deucemaycare/">Instagram</a>
-
-</body>
 
 
 <!---
