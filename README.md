@@ -9,7 +9,9 @@ Welcome to my GitHub profile.
 
 I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
 
-### :hammer_and_wrench: Languages:
+<body>
+  
+  ### :hammer_and_wrench: Languages:
 
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
@@ -35,6 +37,7 @@ I am a system analysis and development student who became interested in front-en
 <a href="https://www.linkedin.com/in/mairaalmeidac/">LinkedIn</a><br>
 <a href="https://www.instagram.com/deucemaycare/">Instagram</a>
 
+</body>
 
 
 <!---
