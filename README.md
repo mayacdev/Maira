@@ -1,4 +1,8 @@
-<div align="center">
+<head>
+  <div align="center">
+  
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 # Hello, I am Máira! 👱‍♀
 Welcome to my GitHub profile.
@@ -8,6 +12,8 @@ Welcome to my GitHub profile.
 </div>
 
 I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
+
+</head>
 
 <body>
   
