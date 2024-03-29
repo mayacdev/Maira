@@ -4,7 +4,7 @@
 Welcome to my GitHub profile.
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr)" width="100"/>
+  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k3NDkwbDY3NmkzamljeXRmMjA4YTJ5OWFueGNiZGJ4aGFvZGxvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100"/>
 </div>
 
 I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
