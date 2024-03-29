@@ -4,12 +4,12 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
-# Hello, I am Máira! 👱‍♀
-Welcome to my GitHub profile.
+<h2># Hello, I am Máira! 👱‍♀</h2>
+<h3>Welcome to my GitHub profile.</h3>
 
-<div id="header" align="center">
+[div id="header" align="center">
   <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k3NDkwbDY3NmkzamljeXRmMjA4YTJ5OWFueGNiZGJ4aGFvZGxvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)"/>
-</div>
+</div><](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k3NDkwbDY3NmkzamljeXRmMjA4YTJ5OWFueGNiZGJ4aGFvZGxvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 I am a system analysis and development student who became interested in front-end very soon. I am currently learning about HTML, CSS and Bootstrap. 
 
