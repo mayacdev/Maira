@@ -21,12 +21,14 @@ I am a system analysis and development student who became interested in front-en
   
   ### :hammer_and_wrench: Languages:
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+            <i class="devicon-html5-plain colored"></i>
+            
+            <i class="devicon-css3-plain colored"></i>
+            
+            <i class="devicon-bootstrap-plain colored"></i>
+            
+            <i class="devicon-javascript-plain colored"></i>
 
 
 </div>
