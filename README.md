@@ -43,7 +43,7 @@
 
   ##
 
-  ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/b42eb7d9fcd9b690f5021995c5df2fc2.png)
+  ![Banner](https://hermes.dio.me/public-users/malmeidac210/share/6af2c24e31063a56208ab9615554f7fb.png)
 
 # You can find me on 🌎:<br>
 <a href="https://www.linkedin.com/in/mairaalmeidac/">LinkedIn</a><br>
